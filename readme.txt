@@ -19,4 +19,6 @@ Harvard University PhD Thesis (2008).
 
 This project involves a single, self-contained C++ file that manipulates the text data output from plu_centerfind2D. To build, create an Eclipse project as described in the readme.txt for plu_centerfind2D, with the Intel Toolchain (and, if interested, sharing with EGit). No special build options are needed, and the file should just build with either the Intel Compiler, or g++.
 
+After this program builds successfully, build plu_struct3dt, so that the verification tests from https://github.com/peterlu/PLuTARC_testbed can be performed (see instructions).
+
 This is a preliminary draft of these instructions. If things are unclear or do not function as described, please contact me so we can resolve the issues.
